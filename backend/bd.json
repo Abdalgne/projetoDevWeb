@@ -1,0 +1,20 @@
+{
+    "pedidos": [
+        {
+            "id": 1,
+            "nome": "José Roberto",
+            "descricao": "Logotipo para floricultura",
+            "data": "30/03/2064",
+            "prazo": "15 dias",
+            "preco": "R$ 134,90"
+        },
+        {
+            "id": 2,
+            "nome": "Ramiro Rezende",
+            "descricao": "Arte digital para site de deposito de construção",
+            "data": "17/06/2064",
+            "prazo": "1 mês",
+            "preco": "R$ 512,68"
+        }
+    ]
+}

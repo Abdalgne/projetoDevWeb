@@ -13,6 +13,8 @@ import { MatSidenav, MatSidenavModule } from '@angular/material/sidenav'
 import { FooterComponent } from './components/template/footer/footer.component';
 import { NavComponent } from './components/template/nav/nav.component';
 
+import { MatCardModule } from "@angular/material/card"
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -26,7 +28,8 @@ import { NavComponent } from './components/template/nav/nav.component';
     BrowserAnimationsModule,
     MatToolbarModule,
     MatListModule,
-    MatSidenavModule
+    MatSidenavModule,
+    MatCardModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
